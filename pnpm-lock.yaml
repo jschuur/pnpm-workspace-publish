@@ -1,0 +1,15 @@
+lockfileVersion: 5.4
+
+importers:
+
+  .:
+    specifiers: {}
+
+  apps/cli:
+    specifiers:
+      '@joostschuur/hello': workspace:*
+    dependencies:
+      '@joostschuur/hello': link:../../packages/hello
+
+  packages/hello:
+    specifiers: {}

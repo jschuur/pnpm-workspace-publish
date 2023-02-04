@@ -1,0 +1,20 @@
+{
+  "name": "@joostschuur/jshello",
+  "version": "1.1.1",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": {
+    "jshello": "index.js"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@joostschuur/hello": "workspace:*"
+  }
+}

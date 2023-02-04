@@ -1,0 +1,10 @@
+{
+  "name": "pnpm-workspace-publish",
+  "version": "1.0.0",
+  "description": "Small test for pnpm workspace publish workflow",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
